@@ -2,7 +2,7 @@
 """
 Created on Tue Sep 16 13:56:22 2014
 Terminated on Wed Sep 24 02:58:00 2014
-@author: gassi
+@author: ASSI Maixent Gemeri
 """
 
 url='http://business.abidjan.net/PJ/'
